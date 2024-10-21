@@ -1,2 +1,4 @@
 # Osmosis-Water-Products-Static-Website-
-the website is a static, informational site for now. it's  a work in progress without full navigation features
+The website is responsive and static, informational site for now. i
+It's  a work in progress without full navigation features.
+Demo (hosted on cpanel) — https://test.chikkamangaluruhomestay.com/
